@@ -2,3 +2,8 @@ h1 {
     color: chocolate;
     text-align: center;
 }
+
+.img {
+    display: block;
+    margin: auto;
+}
