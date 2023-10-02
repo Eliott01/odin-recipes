@@ -7,3 +7,12 @@ h1 {
     display: block;
     margin: auto;
 }
+
+.link {
+    text-align: center;
+    list-style: none;
+    margin-bottom: 5%;
+    font-size: large;
+}
+
+/* Banana Bread*/
