@@ -12,7 +12,10 @@
     text-align: center;
     list-style: none;
     margin-bottom: 5%;
-    font-size: large;
+    display: block;
+    font-size: x-large;
+    border: 8px solid chocolate;
+    text-align: center; 
 }
 
 #intro {
@@ -23,9 +26,3 @@
     color: chocolate;
 }
 
-.home {
-    display: block;
-    font-size: x-large;
-    border: 8px solid chocolate;
-    text-align: center; 
-}
