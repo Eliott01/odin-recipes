@@ -15,6 +15,10 @@
     font-size: large;
 }
 
+#intro {
+    text-align: center;
+}
+
 .sections {
     color: chocolate;
 }
