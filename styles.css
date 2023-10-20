@@ -1,5 +1,5 @@
 .heading {
-    background-color:chocolate;
+    background-color: chocolate;
     text-align: center;
 }
 
@@ -17,4 +17,11 @@
 
 .sections {
     color: chocolate;
+}
+
+.home {
+    display: block;
+    font-size: x-large;
+    border: 8px solid chocolate;
+    text-align: center; 
 }
