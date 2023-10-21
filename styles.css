@@ -14,10 +14,14 @@
     margin-bottom: 5%;
     display: block;
     font-size: x-large;
-    border: 8px solid chocolate;
     text-align: center; 
+}
+
+a:hover{
+    border: 8px solid chocolate;
     background-color: antiquewhite;
 }
+
 
 #intro {
     text-align: center;
@@ -27,3 +31,7 @@
     color: chocolate;
 }
 
+a:hover{
+    border: 8px solid chocolate;
+    background-color: antiquewhite;
+}
