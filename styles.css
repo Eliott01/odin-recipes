@@ -12,16 +12,15 @@
     text-align: center;
     list-style: none;
     margin-bottom: 5%;
-    display: block;
     font-size: x-large;
     text-align: center; 
+    display: block;
 }
 
 a:hover{
-    border: 8px solid chocolate;
+    border: 3px solid chocolate;
     background-color: antiquewhite;
 }
-
 
 #intro {
     text-align: center;
@@ -29,9 +28,4 @@ a:hover{
 
 .sections {
     color: chocolate;
-}
-
-a:hover{
-    border: 8px solid chocolate;
-    background-color: antiquewhite;
 }
